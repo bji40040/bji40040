@@ -1,2 +1,4 @@
-# bji40040
-raw
+{
+    "isOpen" : false,
+    "url": "https://www.baidu.com/",
+}
